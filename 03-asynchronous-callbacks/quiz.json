@@ -1,0 +1,29 @@
+[
+  {
+    "question": "What are the arguments to an error first callback?",
+    "answers": [
+      "(err,data)",
+      "(err=>{}, data)",
+      "(err)",
+      "([err],data)"
+    ],
+    "correctAnswer": "True"
+  },
+  {
+    "question": "Can a .catch() return a value that would resolve a Promise?",
+    "answers": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": "No, a .catch() can return a value to a subsequent .then() ... which could resolve the promise."
+  },
+  {
+    "question": "How do you handle errors with async/await?",
+    "answers": [
+      "You Can't",
+      "let (goodData,Error) = await function() {...}",
+      "try{} / catch() {}"
+    ],
+    "correctAnswer": "Faster development, solid code, well tested edge cases"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "question": "What is 0010 in decimal?",
+    "answers": [
+      "1",
+      "2",
+      "10",
+      "100"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "What is the difference between Little Endian(LE) and Big Endian(BE)?",
+    "answers": [
+      "LE Stores Data 'left to right' and BE stores data 'right to left'",
+      "LE Stores Data 'right to left' and BE stores data 'left to right'",
+      "LE is the only right way to crack an egg"
+    ],
+    "correctAnswer": "LE Stores Data 'right to left' and BE stores data 'left to right'"
+  },
+  {
+    "question": "Explain the differences between readUInt8LE(), readUInt16LE(), and readUInt32LE()",
+    "correctAnswer": "They read 1, 2, or 3 bytes of data respectively"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "question": "Can a linked list have a cycle?",
+    "answers": [
+      "No",
+      "Yes"
+    ],
+    "correctAnswer": "No, cycles are bad bad things."
+  },
+  {
+    "question": "What is the difference between a singly and a doubly linked list?",
+    "answers": [
+      "SLL only has next links, while a DLL has both next and previous links",
+      "In a DLL, the tail node links back to the head node",
+      "SLL can store more complex data than a DLL"
+    ],
+    "correctAnswer": "SLL only has next links, while a DLL has both next and previous links"
+  },
+  {
+    "question": "Why did link lists get created?",
+    "correctAnswer": "To stop folks from having to deal with arrays of dynamic size"
+  }
+]

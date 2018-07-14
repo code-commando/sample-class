@@ -1,0 +1,23 @@
+[
+  {
+    "question": "Which of these is a 'Side Effect' in a function?",
+    "answers": [
+      "Returning the result of a calculation",
+      "Making a database call to lookup a value",
+      "Modifying the value of a parameter that was sent into the function"
+    ],
+    "correctAnswer": "Making a database call to lookup a value"
+  },
+  {
+    "question": "The array returned by .map() always has the same number of elements as the initial array",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True"
+  },
+  {
+    "question": "Does the accumulator in .reduce() always return the original datatype?",
+    "correctAnswer": "No, it can 'accumulate' anything in any data structure"
+  }
+]
