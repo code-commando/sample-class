@@ -2,7 +2,7 @@
  * constructor to create Tree with default root
  */
 
-class Trese{
+class Tree{
   constructor(val){
     this.root = new Node(val);
   }
