@@ -91,4 +91,3 @@ let fizzbuzzTree = new Tree(27);
     console.log(fizzbuzzTree)
     fizzbuzzTree.fizzbuzz(fizzbuzzTree.root);
     console.log(fizzbuzzTree)
-    2*2
