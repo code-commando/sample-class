@@ -1,4 +1,2 @@
-
-cosole.log('test')
-
 8*8
+console.log('test')
