@@ -84,7 +84,7 @@ class Node{
 module.exports = {
   Node,Tree,
 };
-let fizzbuzzTree = new Tree(27);
+let fizzbuzzTree = new Tree(30);
     fizzbuzzTree.add(6);
     fizzbuzzTree.add(5);
     fizzbuzzTree.add(31);
