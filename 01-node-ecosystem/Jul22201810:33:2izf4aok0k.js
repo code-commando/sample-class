@@ -1,2 +1,2 @@
-cnole.log('ffff');
+cnole.log('www');
 8*2
