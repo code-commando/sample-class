@@ -86,7 +86,9 @@ module.exports = {
 };
 let fizzbuzzTree = new Tree(27);
     fizzbuzzTree.add(6);
+    console.log(fizzbuzzTree)
     fizzbuzzTree.add(2);
+    console.log(fizzbuzzTree)
     fizzbuzzTree.add(31);
     console.log(fizzbuzzTree)
     fizzbuzzTree.fizzbuzz(fizzbuzzTree.root);
