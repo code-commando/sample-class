@@ -1,2 +1,2 @@
-console.log('www');
+conole.log('www');
 8*2
