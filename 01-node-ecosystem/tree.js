@@ -5,7 +5,7 @@ class Tree{
   constructor(val){
     this.root = new Node(val);
   }
-  //woooo
+  //whoop
   /**
    * method to push new values on tree
    * @param {Node.val} val 
