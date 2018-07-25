@@ -5,6 +5,8 @@ class Tree{
   constructor(val){
     this.root = new Node(val);
   }
+
+  console.log('how are you?');
   //whoop
   /**
    * method to push new values on tree
