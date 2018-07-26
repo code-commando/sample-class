@@ -91,4 +91,4 @@ let fizzbuzzTree = new Tree(30);
     fizzbuzzTree.add(31);
     console.log(fizzbuzzTree)
     fizzbuzzTree.fizzbuzz(fizzbuzzTree.root);
-    console.log(fizzbuzzTree)
+    console.log(fizzbuzzTree);
